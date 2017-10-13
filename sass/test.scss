@@ -1,0 +1,12 @@
+.advantages {
+  background-color: $body-bg;
+  color: $body-color;
+}
+
+.advantages h4 {
+  color: black;
+
+  &:hover {
+    color : red;
+  }
+}
