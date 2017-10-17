@@ -2,3 +2,6 @@ test
 
 полезные команды 
 type nul > .gitignore
+
+
+git push origin --delete <branchName>
