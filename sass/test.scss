@@ -11,3 +11,16 @@
     color : rgba(223, 184, 184, 0.973);
   }
 }
+
+@media (max-width:900px){
+  .advantages p {
+    font-size: 10px;
+  }
+}
+
+
+@media (max-width:500px){
+  .advantages p {
+    font-size: 8px;
+  }
+}
