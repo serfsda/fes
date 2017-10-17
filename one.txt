@@ -1,7 +1,6 @@
-test
-
-полезные команды 
+РџРѕР»РµР·РЅС‹Рµ РєРѕРјР°РЅРґС‹
 type nul > .gitignore
 
-
 git push origin --delete <branchName>
+
+git merge <branchName>
