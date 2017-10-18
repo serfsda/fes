@@ -2,4 +2,5 @@
 *.psd
 *.log
 node_modules/
+build/
 css/*.css
